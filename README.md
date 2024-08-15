@@ -1,5 +1,4 @@
-readme_content = """
-# ChatBot
+# Kural Tabanlı ChatBot
 
 Bu proje, Python programlama dili kullanılarak geliştirilmiş basit bir chatbot uygulamasıdır. Chatbot, kullanıcıların hava durumu, tarih/saat bilgileri gibi sorularına cevap verir ve çeşitli sohbet işlevlerini yerine getirir. Kullanıcı girdilerini normalleştirerek daha doğru cevaplar üretebilir ve yaygın yazım hatalarını düzeltebilir.
 
