@@ -52,8 +52,3 @@ NLP tabanlı chatbotlar, kullanıcı girdilerini anlamak için doğal dil işlem
 
 Kural tabanlı chatbotlar belirli ve dar alanlarda etkili olabilirken, NLP tabanlı chatbotlar daha geniş ve karmaşık alanlarda esneklik sunar. Bu projede yer alan chatbot kural tabanlı bir chatbot olup, belirli regex desenleri üzerinden çalışmaktadır.
 """
-
-with open("README.md", "w", encoding="utf-8") as readme_file:
-    readme_file.write(readme_content)
-
-print("README.md dosyası başarıyla oluşturuldu.")
